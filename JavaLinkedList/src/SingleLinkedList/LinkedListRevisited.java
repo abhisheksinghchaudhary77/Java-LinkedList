@@ -1,4 +1,4 @@
-package linkedlist;
+package SingleLinkedList;
 
 public class LinkedListRevisited {
     
